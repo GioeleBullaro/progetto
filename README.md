@@ -1,2 +1,2 @@
-# Giuseppe Simone
+# Progetto
 ###### progetto di test
